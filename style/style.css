@@ -342,6 +342,7 @@ button[type=submit]:hover {
 
 .study-case-container p{
   font-size: 1.2em;
+  font-weight: normal !important;
   margin-bottom: 40px;
   margin-top: 40px;
   font-weight: 700;
