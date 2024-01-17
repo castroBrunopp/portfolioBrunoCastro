@@ -355,6 +355,7 @@ button[type=submit]:hover {
   min-width: 80vw;
 }
 
+
 .card-div{
   display: flex;
   flex-direction: row;
@@ -590,7 +591,14 @@ button[type=submit] {
 .individual-media-container img{
   margin-bottom: 15px;
 }
-body{
-  background-color: #9b9b9b;
+
+.study-case-container ol{
+  display: flex;
+  flex-direction: column;
+}
+.study-case-container .card-div{
+display: flex;
+flex-direction: column;
+max-width: 300px;
 }
 }
